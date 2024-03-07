@@ -10,3 +10,5 @@
 
 5. When prompted, click "install".
 
+![image](https://github.com/technophilic03/Adds-plannar-back-on-MyBU-Course-Portal/assets/160270307/3335bb0d-3705-47d8-8963-a588c41a7232)
+
