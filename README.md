@@ -10,5 +10,6 @@
 
 5. When prompted, click "install".
 
-![image](https://github.com/technophilic03/Adds-plannar-back-on-MyBU-Course-Portal/assets/160270307/3335bb0d-3705-47d8-8963-a588c41a7232)
 
+
+<img width="905" alt="Screenshot 2024-03-07 at 13 06 42" src="https://github.com/technophilic03/Adds-planner-back-on-MyBU-Course-Portal/assets/160270307/1982e6c1-ca0c-4536-92c5-c3d696ac4bc7">
