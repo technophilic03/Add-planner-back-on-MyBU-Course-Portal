@@ -1,1 +1,1 @@
-# -Adds-plannar-back-on-MyBU-Course-Portal
+# How to use the script?
